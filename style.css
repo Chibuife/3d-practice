@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+canvas{
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+main{
+  position: absolute;
+  width: 100%;
+}
+
+.blue{
+  /* background-color: blue; */
+  height: 70vh;
+  width: 20vw;
+}
